@@ -1,2 +1,0 @@
-# .github
-Everything to Si.
